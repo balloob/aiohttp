@@ -7,7 +7,7 @@ cython
 chardet
 isort==4.2.5
 tox==2.3.1
-sphinxcontrib-asyncio
+sphinxcontrib-asyncio==0.2.0
 sphinxcontrib-newsfeed
 pytest==3.0.2
 pytest-cov
