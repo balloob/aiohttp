@@ -1,6 +1,6 @@
 pip
 flake8==3.0.4
-pyflakes==1.1.0
+pyflakes==1.3.0
 coverage==4.2
 sphinx==1.4.6
 cython==0.24.1
